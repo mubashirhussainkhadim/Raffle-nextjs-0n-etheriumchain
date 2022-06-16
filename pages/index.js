@@ -1,6 +1,6 @@
 import Head from 'next/head'
-import Header from '../Components/Header'
-import RaffleEnterence from '../Components/RaffleEnterence'
+import Header from '../components/Header'
+import RaffleEnterence from '../components/RaffleEnterence'
 import styles from '../styles/Home.module.css'
 // import ManualHeader from '../Components/ManualHeader'
 export default function Home() {
